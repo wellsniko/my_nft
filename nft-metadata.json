@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Type",
+      "value" : "Image"
+    }, {
+      "trait_type" : "Pictured",
+      "value" : "Wimmelbilder"
+    } ],
+    "description" : "A random Wimmelbilder",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmeuhbKA6ofPuT783PVP5K9YzH7qaHGzMgUD31GHjzRXGQ",
+    "name" : "Niko"
+}
